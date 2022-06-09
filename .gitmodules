@@ -1,0 +1,4 @@
+[submodule "planetmint/public"]
+	path = planetmint/public
+	url = https://github.com/emotemot/planetmint.github.io.git
+	branch = main
