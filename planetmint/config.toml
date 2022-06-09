@@ -1,0 +1,4 @@
+baseURL = 'https://planetmint.io/'
+languageCode = 'en-us'
+title = 'Planetmint'
+theme = 'beautifulhugo'
